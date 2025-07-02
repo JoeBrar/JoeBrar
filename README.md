@@ -1,1 +1,1 @@
-Passionate software engineer and web developer.
+Passionate software engineer and fullstack web developer
